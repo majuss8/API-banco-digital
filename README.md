@@ -402,6 +402,7 @@ Essa é a rota que será utilizada para listar as transações realizadas de uma
 }
 ~~~
 ## Run
+Faça um clone do respositório para sua máquina.
 Para processa-lo é necessário ter instalado o [node.js](https://nodejs.org).
 No terminal instale o [express](https://expressjs.com): 
 ~~~
