@@ -418,5 +418,3 @@ npm run dev
 ~~~
 * Para finalizar o arquivo use Ctrl+C
 
-## License
-
