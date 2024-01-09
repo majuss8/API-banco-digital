@@ -1,0 +1,20 @@
+{
+  "name": "api-banco-digital",
+  "version": "1.0.0",
+  "description": "RESTful API para o funcionamento de um banco digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll=false --noStackTrace",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Maria Júlia",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
